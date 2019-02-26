@@ -1,0 +1,39 @@
+{
+  "name": "cordova-plugin-sslchecker",
+  "version": "1.0.0",
+  "description": "This plugin allows allows you to check the SSL Certificate of the server you're connecting to. This can be useful for prevention of Man In The Middle attacks.",
+  "cordova": {
+    "id": "cordova-plugin-sslchecker",
+    "platforms": [
+      "ios",
+      "android",
+      "windows"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prathvi-raj/SSLChecker.git"
+  },
+  "keywords": [
+    "Certificate",
+    "SSL",
+    "Pinning",
+    "Man in the Middle",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android",
+    "cordova-windows"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Prathvi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prathvi-raj/SSLChecker/issues"
+  },
+  "homepage": "https://github.com/prathvi-raj/SSLChecker#readme"
+}
